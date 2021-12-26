@@ -1,0 +1,57 @@
+body
+{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F5F7FA;
+}
+
+.main-container
+{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    background: white;
+    margin: 40px auto;
+}
+
+.main-content
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.about-me-profession
+{
+    font-size: 14px;
+    font-weight: 700;
+    color: #000;
+}
+
+.about-me
+{
+    background: yellow;
+    /* margin-bottom: 40px;
+    margin-top: 102px;
+    margin-left: 458px;
+    margin-right: 342px; */
+}
+
+.my-projects
+{
+    background-color: rgb(138, 255, 71);
+}
+
+.my-work-experience
+{
+    background: rgb(76, 0, 255);
+}
+
+.Education
+{
+    background: rgb(255, 30, 0);
+}
+
+.sidebar-section
+{
+    background: #1E2939;
+    
+}
